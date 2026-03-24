@@ -1,0 +1,184 @@
+
+<!-- saved from url=(0025)https://pajju.oneapp.dev/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>
+My first web page 
+</title></head><body>dfufuofuufu8dfidufdg9geood
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Happy Birthday Akshata</title>
+
+<style>
+
+body{
+margin:0;
+font-family: Arial, sans-serif;
+background: linear-gradient(135deg,#ff758c,#ff7eb3);
+color:white;
+text-align:center;
+overflow-x:hidden;
+}
+
+section{
+padding:60px 20px;
+}
+
+h1{
+font-size:3rem;
+animation: glow 2s infinite alternate;
+}
+
+@keyframes glow{
+from{ text-shadow:0 0 10px #fff;}
+to{ text-shadow:0 0 30px #ff0055;}
+}
+
+p{
+max-width:700px;
+margin:auto;
+font-size:18px;
+line-height:1.6;
+}
+
+button{
+padding:15px 30px;
+font-size:18px;
+border:none;
+border-radius:30px;
+background:white;
+color:#ff0055;
+cursor:pointer;
+margin-top:20px;
+}
+
+.hidden{
+display:none;
+}
+
+.heart{
+position:fixed;
+font-size:20px;
+animation: float 6s linear infinite;
+}
+
+@keyframes float{
+0%{transform:translateY(100vh);}
+100%{transform:translateY(-10vh);}
+}
+
+footer{
+padding:40px;
+font-size:18px;
+}
+
+</style>
+
+
+
+
+
+<section>
+
+<h1>Happy Birthday Akshata ❤️</h1>
+
+<p>
+Today is your special day.  
+Even if life took us in different directions,  
+I still wish happiness, peace, and beautiful moments for you.
+</p>
+
+<button onclick="showMessage()">Click to Read My Heart</button>
+
+</section>
+
+<section id="message" class="hidden">
+
+<h2>A Message From My Heart</h2>
+
+<p>
+Akshata,
+
+I have loved you for 7 years.  
+Life changed, situations changed, and maybe feelings changed too.  
+But one thing that never changed in me is the respect and love I still have for you.
+
+Even if you ignore my messages,  
+even if I am no longer part of your world,  
+my heart still silently wishes that you stay happy forever.
+
+You may never know how deeply you touched my life,  
+but you will always remain a beautiful chapter in my story.
+
+On your birthday, I just want to say:
+
+May your life be filled with happiness, success, and smiles.
+
+Happy Birthday Akshata[bangari].
+</p>
+
+</section>
+
+<section>
+
+<h2>One Truth</h2>
+
+<p>
+Sometimes love doesn't mean being together.  
+Sometimes love means wishing someone happiness even when they are not with you.
+</p>
+
+</section>
+
+<section>
+
+<button onclick="finalSurprise()">Open Final Message</button>
+
+<h1 id="final" class="hidden">
+No matter what happens in life,  
+a part of my heart will always care for you. ❤️
+</h1>
+
+</section>
+
+<footer>
+Made with love and memories
+</footer>
+
+<script>
+
+function showMessage(){
+document.getElementById("message").classList.remove("hidden")
+}
+
+function finalSurprise(){
+document.getElementById("final").classList.remove("hidden")
+}
+
+function createHeart(){
+let heart=document.createElement("div")
+
+heart.className="heart"
+heart.innerHTML="❤️"
+
+heart.style.left=Math.random()*100+"vw"
+heart.style.fontSize=Math.random()*20+10+"px"
+
+document.body.appendChild(heart)
+
+setTimeout(()=>{
+heart.remove()
+},6000)
+
+}
+
+setInterval(createHeart,300)
+
+</script>
+
+<script defer="" src="./pajju&#39;s web_files/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;e3c1c9af36de41759418005494a48906&quot;,&quot;r&quot;:1,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
+
+<div class="heart" style="left: 74.5977vw; font-size: 15.8402px;">❤️</div><div class="heart" style="left: 66.5027vw; font-size: 15.5094px;">❤️</div><div class="heart" style="left: 40.5871vw; font-size: 14.0072px;">❤️</div><div class="heart" style="left: 79.4462vw; font-size: 23.4407px;">❤️</div><div class="heart" style="left: 52.6448vw; font-size: 25.5869px;">❤️</div><div class="heart" style="left: 82.8726vw; font-size: 21.8383px;">❤️</div><div class="heart" style="left: 4.55337vw; font-size: 15.1436px;">❤️</div><div class="heart" style="left: 75.1051vw; font-size: 15.1396px;">❤️</div><div class="heart" style="left: 24.3105vw; font-size: 21.1439px;">❤️</div><div class="heart" style="left: 15.3992vw; font-size: 16.2077px;">❤️</div><div class="heart" style="left: 20.0765vw; font-size: 20.1909px;">❤️</div><div class="heart" style="left: 87.8186vw; font-size: 26.618px;">❤️</div><div class="heart" style="left: 77.6569vw; font-size: 13.7238px;">❤️</div><div class="heart" style="left: 21.7612vw; font-size: 17.4499px;">❤️</div><div class="heart" style="left: 36.2782vw; font-size: 10.7207px;">❤️</div><div class="heart" style="left: 99.0019vw; font-size: 14.2849px;">❤️</div><div class="heart" style="left: 87.9608vw; font-size: 11.1108px;">❤️</div><div class="heart" style="left: 75.4705vw; font-size: 11.3191px;">❤️</div><div class="heart" style="left: 44.6556vw; font-size: 14.8555px;">❤️</div><div class="heart" style="left: 24.6047vw; font-size: 21.7091px;">❤️</div></body></html>
